@@ -1,0 +1,4 @@
+reg.setDistanceThreshold(1); // ficou 1 mesmo
+	reg.setPointColorThreshold(6); // estava 3
+	reg.setRegionColorThreshold(2);	// estava 3
+	reg.setMinClusterSize(100); //estava 600
